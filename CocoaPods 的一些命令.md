@@ -3,3 +3,4 @@
 
 - 清除全部的 Pod 缓存
   - pod cache clean --all
+
