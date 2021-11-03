@@ -38,3 +38,11 @@ git push origin :refs/tags/标签名
 git push origin :refs/tags/3.1.4
 ```
 
+## 从远程分支拉取代码到本地分支
+
+- 此方式建立的本地分支和远程分支建立映射关系
+
+```shell
+git checkout -b 本地分支名称 origin/远程分支名称
+```
+
