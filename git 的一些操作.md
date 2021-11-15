@@ -58,3 +58,9 @@ git reomote -v
 git remote set-url origin [新的git地址]
 ```
 
+## 删除远程仓库的分支
+
+```shell
+git push origin --delete [分支名称]
+```
+
